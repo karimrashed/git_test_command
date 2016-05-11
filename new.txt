@@ -1,12 +1,24 @@
 ## First of please initialize your project. This is first task of git. One project need one time initiaize.
 1) git init
+
 ## if you want to know what is change after the init command then
 2) git ls
 3) git ls -al
+
 ## if you open a file and write there somthing
 4) sudo gedit /home/rashed/git/new.txt
+
 ## any file added into git
 5) git add
+
 ##after added a file into git then need to coomit.
 6) git status
 7)git coomit -m "<status>" <file name>
+
+## if you want to see your file changes then 
+8) git diff
+
+##if you want to see your full log first to last
+9) git log
+
+########## initialize, commit, diff, and log ##############
