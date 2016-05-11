@@ -5,3 +5,8 @@
 3) git ls -al
 ## if you open a file and write there somthing
 4) sudo gedit /home/rashed/git/new.txt
+## any file added into git
+5) git add
+##after added a file into git then need to coomit.
+6) git status
+7)git coomit -m "<status>" <file name>
