@@ -26,3 +26,33 @@
 
 ### initialize commit diff and log work done ######
 
+## If want to go back previous commit then 
+11) git show commit#
+12) gi checkout commit# (go back previous commit# state)
+13) git checkout master (go back current state)
+14) cat <filename>
+
+## we want to only one file back to previous state
+
+15)git checkout commit# <filename>
+16)cat <filename>
+17)git checkout master -f <only one file back current state>
+18)cat <filename>
+
+## if we give accident commit reset has 2 state 
+19)git reset --soft commit#
+20)git diff HEAD
+21)git reset --hard commit#
+22) cat <file name>
+23)git reflog
+24) git reset <HEAD@{8}>
+25) git reset --hard
+
+##without new commit but want to change a file
+
+26)git add <fielname>
+27) git commit --amend
+28) git log
+
+###### back previous commit, Reset, and Amend######
+
