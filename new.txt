@@ -21,4 +21,8 @@
 ##if you want to see your full log first to last
 9) git log
 
-########## initialize, commit, diff, and log ##############
+#### git show function work use this and log no shows us what is change in our different task  ####
+10) git show
+
+### initialize commit diff and log work done ######
+
