@@ -3,6 +3,7 @@
 
 
 
+
 1) git init
 
 ## if you want to know what is change after the init command then
@@ -77,3 +78,7 @@
 38) git remote show
 39) git remote show origin
 40) git push origin master
+
+## want to Pull 
+41) git pull origin master
+##completed PUSH and Pull Nad Remote ##
