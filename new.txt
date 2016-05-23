@@ -1,6 +1,8 @@
 ## First of please initialize your project. This is first task of git. One project need one time initiaize.
 
 
+
+
 1) git init
 
 ## if you want to know what is change after the init command then
@@ -68,3 +70,10 @@
 35)git clean -f 
 
 ### commit git stash and clean####
+## make a black project
+36) git clone <repository name> 
+## add remote
+37) git remote add origin git@github.com:karimrashed/git_test_command.git
+38) git remote show
+39) git remote show origin
+40) git push origin master
