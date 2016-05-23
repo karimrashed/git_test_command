@@ -1,4 +1,6 @@
 ## First of please initialize your project. This is first task of git. One project need one time initiaize.
+
+
 1) git init
 
 ## if you want to know what is change after the init command then
@@ -56,3 +58,13 @@
 
 ###### back previous commit, Reset, and Amend######
 
+## without commit working directory test purpose
+29) git stash (update line delete not permanent)
+30) git stash pop/ apply (recover previous line)
+31) git satsh list
+32) git stash pop stash@{1} <Specific stash line>
+33)git stash clear
+34)git clean -f -n
+35)git clean -f 
+
+### commit git stash and clean####
