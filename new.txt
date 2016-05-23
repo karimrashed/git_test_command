@@ -4,6 +4,7 @@
 
 
 
+
 1) git init
 
 ## if you want to know what is change after the init command then
@@ -81,4 +82,21 @@
 
 ## want to Pull 
 41) git pull origin master
-##completed PUSH and Pull Nad Remote ##
+##completed PUSH and Pull and Remote ##
+
+## git ignore file 
+
+42) zip new.zip new.txt
+43)vim .gitignore
+
+## conflict resolve
+
+44) git mergetool
+### alias making
+
+45) .bashrc/ 
+    alias ms ="git status"
+46) vim ~/myaliases
+47) source ~/.myaliases
+###### Git completed full ####
+
